@@ -1,13 +1,13 @@
 # SkillFlow ML: Task Navigator & Practice Tests
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20App-ff4b4b)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Task%20Navigator-purple)
-![Practice](https://img.shields.io/badge/Practice-Active%20Recall-orange)
-![Pipelines](https://img.shields.io/badge/ML%20Pipelines-Checklists-7c5cff)
-![Dashboard](https://img.shields.io/badge/Dashboard-Plotly-green)
-![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)
-![Bilingual](https://img.shields.io/badge/Bilingual-English%20%7C%20Russian-0ea5e9)
+![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-ML%20Learning%20App-FF4B4B?logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-150458?logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Progress%20Dashboard-3F4F75?logo=plotly&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Attempt%20Tracking-003B57?logo=sqlite&logoColor=white)
+![ML](https://img.shields.io/badge/ML-Task%20Diagnosis-7C5CFF)
+![Learning](https://img.shields.io/badge/Learning-Active%20Recall-F59E0B)
+![Language](https://img.shields.io/badge/Language-EN%20%7C%20RU-16A34A)
 
 **SkillFlow ML** is a Streamlit-based learning tool that helps students decide how to start a machine learning task, choose the correct ML approach, build a structured pipeline, and practice weak skills through manual active-recall tests.
 
