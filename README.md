@@ -1,5 +1,14 @@
 # SkillFlow ML: Task Navigator & Practice Tests
 
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Interactive%20App-ff4b4b)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Task%20Navigator-purple)
+![Practice](https://img.shields.io/badge/Practice-Active%20Recall-orange)
+![Pipelines](https://img.shields.io/badge/ML%20Pipelines-Checklists-7c5cff)
+![Dashboard](https://img.shields.io/badge/Dashboard-Plotly-green)
+![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)
+![Bilingual](https://img.shields.io/badge/Bilingual-English%20%7C%20Russian-0ea5e9)
+
 **SkillFlow ML** is a Streamlit-based learning tool that helps students decide how to start a machine learning task, choose the correct ML approach, build a structured pipeline, and practice weak skills through manual active-recall tests.
 
 ## Problem
